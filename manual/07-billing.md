@@ -15,6 +15,8 @@ Abas principais:
 
 ### 19.1 Configuração
 
+![Billing — configuração]({{ site.baseurl }}/assets/images/manual/07-billing-configuracao.png)
+
 | Campo | Utilização |
 |-------|------------|
 | **Billing ativo** | Liga a cobrança/contabilização. |
@@ -23,9 +25,13 @@ Abas principais:
 
 ### 19.2 Custos globais
 
+![Billing — custos globais]({{ site.baseurl }}/assets/images/manual/07-billing-custos.png)
+
 Tabela de preços vigentes (base por requisição, por ms de banco, por byte) com validade. No cadastro novo: **Válido a partir de**, valores unitários e **Notas**.
 
 ### 19.3 Overrides de rota (billing)
+
+![Billing — overrides de rota]({{ site.baseurl }}/assets/images/manual/07-billing-overrides.png)
 
 | Campo | Utilização |
 |-------|------------|
@@ -34,6 +40,8 @@ Tabela de preços vigentes (base por requisição, por ms de banco, por byte) co
 | **Multiplicador** | Fator sobre o custo padrão. |
 
 ### 19.4 Planos por usuário
+
+![Billing — planos por usuário]({{ site.baseurl }}/assets/images/manual/07-billing-planos.png)
 
 | Campo | Utilização |
 |-------|------------|
@@ -44,6 +52,8 @@ Tabela de preços vigentes (base por requisição, por ms de banco, por byte) co
 
 ### 19.5 Saldos
 
+![Billing — saldos]({{ site.baseurl }}/assets/images/manual/07-billing-saldos.png)
+
 | Campo / coluna | Utilização |
 |----------------|------------|
 | **Mês de faturamento** | Período consultado. |
@@ -52,6 +62,8 @@ Tabela de preços vigentes (base por requisição, por ms de banco, por byte) co
 | **Recarregar** | Ajusta **Tokens concedidos no período**. |
 
 ### 19.6 Consumo
+
+![Billing — consumo]({{ site.baseurl }}/assets/images/manual/07-billing-consumo.png)
 
 Ledger de uso: quando, usuário, rota, ms de DB, bytes, tipo (incluso / sob demanda) e tokens debitados.
 

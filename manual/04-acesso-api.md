@@ -11,6 +11,10 @@ nav_order: 4
 
 Papéis de autorização dos **consumidores** da API pública (não confundir com perfis do painel).
 
+![Lista de papéis da API]({{ site.baseurl }}/assets/images/manual/04-papeis-lista.png)
+
+![Formulário de papel da API]({{ site.baseurl }}/assets/images/manual/04-papeis-formulario.png)
+
 | Campo | Utilização |
 |-------|------------|
 | **Nome** | Identificação do papel (ex.: `leitura`, `integracao-erp`). |
@@ -27,6 +31,8 @@ Contas que sistemas externos usam para chamar o gateway.
 
 ### 12.1 Lista
 
+![Lista de usuários da API]({{ site.baseurl }}/assets/images/manual/04-usuarios-api-lista.png)
+
 | Coluna | Utilização |
 |--------|------------|
 | **Usuário** | Login/identificação do consumidor. |
@@ -36,6 +42,8 @@ Contas que sistemas externos usam para chamar o gateway.
 | **Status** | Ativo/inativo. |
 
 ### 12.2 Formulário
+
+![Formulário de usuário da API]({{ site.baseurl }}/assets/images/manual/04-usuarios-api-formulario.png)
 
 | Campo | Utilização |
 |-------|------------|
@@ -68,6 +76,8 @@ Define se um papel **pode invocar** cada definição de API.
 
 ### 13.1 Lista / item único
 
+![Lista de permissões por papel]({{ site.baseurl }}/assets/images/manual/04-permissoes-lista.png)
+
 | Campo | Utilização |
 |-------|------------|
 | **Papel** | Papel da API. |
@@ -75,6 +85,8 @@ Define se um papel **pode invocar** cada definição de API.
 | **Pode invocar** | Liga ou bloqueia a chamada para aquele papel. |
 
 ### 13.2 Gerenciar por papel
+
+![Entrada para gerenciar permissões por papel]({{ site.baseurl }}/assets/images/manual/04-permissoes-formulario.png)
 
 Tela em lote para um papel:
 
@@ -95,6 +107,8 @@ Controla quantas requisições a API aceita por janela de tempo.
 
 ### 14.1 Visão geral
 
+![Rate limit global e aba Usuário]({{ site.baseurl }}/assets/images/manual/04-rate-limit.png)
+
 | Informação | Utilização |
 |------------|------------|
 | **Máx. requisições (global)** | Limite padrão da organização. |
@@ -104,6 +118,10 @@ Abas **Usuário** e **Rota** abrem as exceções.
 
 ### 14.2 Exceção por rota
 
+![Exceções de rate limit por rota]({{ site.baseurl }}/assets/images/manual/04-rate-limit-rota.png)
+
+![Formulário de exceção por rota]({{ site.baseurl }}/assets/images/manual/04-rate-limit-rota-form.png)
+
 | Campo | Utilização |
 |-------|------------|
 | **Definição de API** | Rota que terá limite próprio. |
@@ -112,6 +130,8 @@ Abas **Usuário** e **Rota** abrem as exceções.
 | **Override ativo** | Liga/desliga a exceção. |
 
 ### 14.3 Exceção por usuário
+
+![Formulário de exceção por usuário]({{ site.baseurl }}/assets/images/manual/04-rate-limit-usuario-form.png)
 
 | Campo | Utilização |
 |-------|------------|

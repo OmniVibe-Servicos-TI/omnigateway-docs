@@ -9,6 +9,8 @@ nav_order: 6
 
 ## 17. Auditoria
 
+![Auditoria de configuração]({{ site.baseurl }}/assets/images/manual/06-auditoria.png)
+
 Registro de alterações de configuração feitas no painel.
 
 | Filtro / coluna | Utilização |
@@ -29,6 +31,8 @@ Use para investigar “quem mudou o quê” em conexões, APIs, permissões, etc
 Monitoramento das requisições à API pública.
 
 ### 18.1 Indicadores e filtros
+
+![Log de chamadas da API]({{ site.baseurl }}/assets/images/manual/06-chamadas-api.png)
 
 | Elemento | Utilização |
 |----------|------------|

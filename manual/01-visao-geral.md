@@ -27,6 +27,10 @@ Tudo o que você cria ou edita pertence à **organização** selecionada. Se o s
 - Após o login (ou quando necessário), aparece o diálogo **Escolha a organização**.
 - No menu lateral, use **Trocar organização** para mudar o contexto.
 
+![Diálogo Escolha a organização]({{ site.baseurl }}/assets/images/manual/01-escolher-organizacao.png)
+
+![Trocar organização no menu lateral]({{ site.baseurl }}/assets/images/manual/01-trocar-organizacao.png)
+
 Listagens e formulários refletem sempre a organização ativa.
 
 ### Permissões do painel

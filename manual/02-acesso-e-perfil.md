@@ -11,6 +11,8 @@ nav_order: 2
 
 ### 4.1 Login
 
+![Formulário de login do painel]({{ site.baseurl }}/assets/images/manual/02-login.png)
+
 | Campo / ação | Utilização |
 |--------------|------------|
 | **Usuário ou e-mail** | Identificação da conta do painel. |
@@ -27,6 +29,8 @@ Se a conta tiver MFA ativo, após a senha:
 
 ### 4.2 Esqueci minha senha
 
+![Recuperação de senha por e-mail]({{ site.baseurl }}/assets/images/manual/02-esqueci-senha.png)
+
 | Campo | Utilização |
 |-------|------------|
 | **E-mail** | Se existir conta, o sistema envia link para redefinir a senha. |
@@ -41,6 +45,8 @@ Se a conta tiver MFA ativo, após a senha:
 ### 4.4 Recuperar autenticador (MFA)
 
 - **Sem token na URL:** informe o **E-mail** para receber o link de remoção do 2FA.
+
+![Recuperar autenticador informando o e-mail]({{ site.baseurl }}/assets/images/manual/02-recuperar-mfa.png)
 - **Com token:** confirme a remoção do 2FA e configure o autenticador de novo no **Perfil**.
 
 ### 4.5 Confirmar e-mail / Aceitar convite
@@ -56,6 +62,8 @@ Se a conta tiver MFA ativo, após a senha:
 
 Dados da sua conta no painel.
 
+![Perfil do usuário no painel]({{ site.baseurl }}/assets/images/manual/02-perfil.png)
+
 ### Dados do usuário
 
 | Campo | Utilização |
@@ -67,6 +75,8 @@ Dados da sua conta no painel.
 | **Confirmar nova senha** | Confirmação obrigatória se informar nova senha. |
 
 ### Autenticação em dois fatores
+
+![Autenticação em dois fatores no perfil]({{ site.baseurl }}/assets/images/manual/02-perfil-2fa.png)
 
 | Ação / campo | Utilização |
 |--------------|------------|
