@@ -6,4 +6,7 @@ color_scheme: dark
 url: https://OmniVibe-Servicos-TI.github.io/omnigateway-docs
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  OmniVibe: https://www.omnivibe.com.br
+
+search_enabled: true
+heading_anchors: true
