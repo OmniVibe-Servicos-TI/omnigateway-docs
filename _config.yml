@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: OmniGateway - Manual
+description: Documentação do sistema OmniGateway
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://OmniVibe-Servicos-TI.github.io/omnigateway-docs
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
