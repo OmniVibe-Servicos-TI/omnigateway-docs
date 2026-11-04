@@ -11,7 +11,7 @@ nav_order: 2
 
 ### 4.1 Login
 
-![Formulário de login do painel]({{ site.baseurl }}/assets/images/manual/02-login.png)
+![Formulário de login do painel]({{ site.baseurl }}/assets/images/guia/02-login.png)
 
 | Campo / ação | Utilização |
 |--------------|------------|
@@ -29,7 +29,7 @@ Se a conta tiver MFA ativo, após a senha:
 
 ### 4.2 Esqueci minha senha
 
-![Recuperação de senha por e-mail]({{ site.baseurl }}/assets/images/manual/02-esqueci-senha.png)
+![Recuperação de senha por e-mail]({{ site.baseurl }}/assets/images/guia/02-esqueci-senha.png)
 
 | Campo | Utilização |
 |-------|------------|
@@ -46,7 +46,7 @@ Se a conta tiver MFA ativo, após a senha:
 
 - **Sem token na URL:** informe o **E-mail** para receber o link de remoção do 2FA.
 
-![Recuperar autenticador informando o e-mail]({{ site.baseurl }}/assets/images/manual/02-recuperar-mfa.png)
+![Recuperar autenticador informando o e-mail]({{ site.baseurl }}/assets/images/guia/02-recuperar-mfa.png)
 - **Com token:** confirme a remoção do 2FA e configure o autenticador de novo no **Perfil**.
 
 ### 4.5 Confirmar e-mail / Aceitar convite
@@ -62,7 +62,7 @@ Se a conta tiver MFA ativo, após a senha:
 
 Dados da sua conta no painel.
 
-![Perfil do usuário no painel]({{ site.baseurl }}/assets/images/manual/02-perfil.png)
+![Perfil do usuário no painel]({{ site.baseurl }}/assets/images/guia/02-perfil.png)
 
 ### Dados do usuário
 
@@ -76,7 +76,7 @@ Dados da sua conta no painel.
 
 ### Autenticação em dois fatores
 
-![Autenticação em dois fatores no perfil]({{ site.baseurl }}/assets/images/manual/02-perfil-2fa.png)
+![Autenticação em dois fatores no perfil]({{ site.baseurl }}/assets/images/guia/02-perfil-2fa.png)
 
 | Ação / campo | Utilização |
 |--------------|------------|

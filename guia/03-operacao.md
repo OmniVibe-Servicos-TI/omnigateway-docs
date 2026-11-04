@@ -9,7 +9,7 @@ nav_order: 3
 
 ## 6. Dashboard (`/`)
 
-![Dashboard da organização]({{ site.baseurl }}/assets/images/manual/03-dashboard.png)
+![Dashboard da organização]({{ site.baseurl }}/assets/images/guia/03-dashboard.png)
 
 Visão geral da organização ativa.
 
@@ -30,7 +30,7 @@ Cadastro dos backends (Oracle, PostgreSQL, MySQL, SQL Server, MongoDB, etc.) usa
 
 ### 7.1 Lista
 
-![Lista de conexões]({{ site.baseurl }}/assets/images/manual/03-conexoes-lista.png)
+![Lista de conexões]({{ site.baseurl }}/assets/images/guia/03-conexoes-lista.png)
 
 | Filtro / coluna | Utilização |
 |-----------------|------------|
@@ -42,7 +42,7 @@ Cadastro dos backends (Oracle, PostgreSQL, MySQL, SQL Server, MongoDB, etc.) usa
 
 ### 7.2 Formulário (nova / editar)
 
-![Formulário de conexão]({{ site.baseurl }}/assets/images/manual/03-conexoes-formulario.png)
+![Formulário de conexão]({{ site.baseurl }}/assets/images/guia/03-conexoes-formulario.png)
 
 | Campo | Utilização |
 |-------|------------|
@@ -66,7 +66,7 @@ Templates executados pelo gateway, com validação de parâmetros.
 
 ### 8.1 Lista
 
-![Lista de queries]({{ site.baseurl }}/assets/images/manual/03-queries-lista.png)
+![Lista de queries]({{ site.baseurl }}/assets/images/guia/03-queries-lista.png)
 
 | Filtro / coluna | Utilização |
 |-----------------|------------|
@@ -76,7 +76,7 @@ Templates executados pelo gateway, com validação de parâmetros.
 
 ### 8.2 Formulário
 
-![Formulário de query]({{ site.baseurl }}/assets/images/manual/03-queries-formulario.png)
+![Formulário de query]({{ site.baseurl }}/assets/images/guia/03-queries-formulario.png)
 
 | Campo | Utilização |
 |-------|------------|
@@ -91,7 +91,7 @@ Templates executados pelo gateway, com validação de parâmetros.
 
 ### 8.3 Editor visual do paramSchema
 
-![Editor visual do paramSchema]({{ site.baseurl }}/assets/images/manual/03-queries-param-schema.png)
+![Editor visual do paramSchema]({{ site.baseurl }}/assets/images/guia/03-queries-param-schema.png)
 
 | Campo | Utilização |
 |-------|------------|
@@ -109,7 +109,7 @@ Parâmetros **OUT** / **cursor** não são enviados pelo cliente; o gateway os p
 
 ### 8.4 Testar query
 
-![Diálogo Testar query]({{ site.baseurl }}/assets/images/manual/03-queries-testar.png)
+![Diálogo Testar query]({{ site.baseurl }}/assets/images/guia/03-queries-testar.png)
 
 | Campo | Utilização |
 |-------|------------|
@@ -125,7 +125,7 @@ Define o contrato HTTP da rota pública (ainda sem ligar ao banco — isso é o 
 
 ### 9.1 Lista
 
-![Lista de definições de API]({{ site.baseurl }}/assets/images/manual/03-apis-lista.png)
+![Lista de definições de API]({{ site.baseurl }}/assets/images/guia/03-apis-lista.png)
 
 | Filtro / coluna | Utilização |
 |-----------------|------------|
@@ -135,7 +135,7 @@ Define o contrato HTTP da rota pública (ainda sem ligar ao banco — isso é o 
 
 ### 9.2 Formulário
 
-![Formulário de definição de API]({{ site.baseurl }}/assets/images/manual/03-apis-formulario.png)
+![Formulário de definição de API]({{ site.baseurl }}/assets/images/guia/03-apis-formulario.png)
 
 | Campo | Utilização |
 |-------|------------|
@@ -156,7 +156,7 @@ Associa uma **definição de API** a uma **query** e a uma **conexão**. Uma API
 
 ### 10.1 Lista
 
-![Lista de mapeamentos de rota]({{ site.baseurl }}/assets/images/manual/03-mapeamentos-lista.png)
+![Lista de mapeamentos de rota]({{ site.baseurl }}/assets/images/guia/03-mapeamentos-lista.png)
 
 | Coluna | Utilização |
 |--------|------------|
@@ -167,7 +167,7 @@ Associa uma **definição de API** a uma **query** e a uma **conexão**. Uma API
 
 ### 10.2 Formulário
 
-![Formulário de mapeamento de rota]({{ site.baseurl }}/assets/images/manual/03-mapeamentos-formulario.png)
+![Formulário de mapeamento de rota]({{ site.baseurl }}/assets/images/guia/03-mapeamentos-formulario.png)
 
 | Campo | Utilização |
 |-------|------------|

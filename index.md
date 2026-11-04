@@ -10,7 +10,7 @@ permalink: /
 
 Documentação de **operação do painel administrativo** (`/admin`).
 
-[Começar pelo Manual do usuário]({{ site.baseurl }}/manual/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Começar pelo Manual do usuário]({{ site.baseurl }}/guia/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ---
 
