@@ -3,12 +3,14 @@ description: Manual do usuário para o sistema OmniGateway
 theme: just-the-docs
 color_scheme: dark
 
-# Público em https://ogw.omnivibe.com.br/docs/ . O Worker faz proxy de
-# /docs e /docs/* para o GitHub Pages. `url` é só a origem: o jekyll-seo-tag
-# concatena url + baseurl no canonical e no og:url. O endereço direto em
-# github.io/omnigateway-docs fica sem o prefixo certo de propósito.
+# Público em https://ogw.omnivibe.com.br/manual/ . O Worker faz proxy de
+# /manual e /manual/* para o GitHub Pages. O prefixo não é /docs porque a
+# aplicação publica a especificação em /docs/openapi. `url` é só a origem:
+# o jekyll-seo-tag concatena url + baseurl no canonical e no og:url. O
+# endereço direto em github.io/omnigateway-docs fica sem o prefixo certo
+# de propósito.
 url: https://ogw.omnivibe.com.br
-baseurl: /docs
+baseurl: /manual
 
 aux_links:
   OmniVibe: https://www.omnivibe.com.br
